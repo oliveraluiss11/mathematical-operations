@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  name: OPERATION-MICROSERVICE
+spring:
+  data:
+    mongodb:
+      uri:  //COLOCA TU URI DE MONGODB
